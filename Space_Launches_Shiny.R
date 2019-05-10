@@ -4,7 +4,7 @@ library(DT)
 
 launches <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-01-15/launches.csv")
 
-#Doing some initial modifications to the dataset, e.g renaming columns, separating "launch_date" column and fixing one type in the "Year" column
+#Doing some initial modifications to the dataset, e.g renaming columns, separating "launch_date" column and fixing one typo in the "Year" column
 
 launches <- launches %>%
     rename(country_code = state_code,
