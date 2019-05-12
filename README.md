@@ -1,8 +1,8 @@
 # Space Launches
 
-Hello, my name is Amin and this is my first ever attempt at creating an R Shiny application, which you can access [here](https://aminramlan.shinyapps.io/Space_Launches/).
+Hello, my name is Amin and this is my first ever attempt at creating an R Shiny application. 
 
-The app enables the user to gain information about a few things including:
+The deployed application can be accessed [here](https://aminramlan.shinyapps.io/Space_Launches/), and it enables the user to gain information about a few things including:
 
 - Space launch activities around the world in all countries between 1957 and 2018
 - Space launches in specific countries or space agencies involved.
