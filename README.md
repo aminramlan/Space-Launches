@@ -11,4 +11,4 @@ The deployed application can be accessed [here](https://aminramlan.shinyapps.io/
 
 The dataset was obtained from the official [tidytuesday GitHub repository](https://github.com/rfordatascience/tidytuesday) (week 3 of 2019).
 
-More details on the dataset can be found [here](data/2019/2019-01-15/launches.csv).
+More details on the dataset can be found [here](data/2019/2019-01-15).
