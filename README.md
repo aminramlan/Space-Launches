@@ -11,4 +11,4 @@ The app enables the user to gain information about a few things including:
 
 The dataset was obtained from the official [tidytuesday GitHub repository](https://github.com/rfordatascience/tidytuesday) (week 3 of 2019).
 
-More details on the dataset can be found [here](http://www.planet4589.org/space/lvdb/index.html).
+More details on the dataset can be found [here](data/2019/2019-01-15/launches.csv).
